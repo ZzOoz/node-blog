@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ZzOoz/node-blog/issues"
   },
-  "homepage": "https://github.com/ZzOoz/node-blog#readme"
+  "homepage": "https://github.com/ZzOoz/node-blog#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
